@@ -1,0 +1,2 @@
+#Test child
+print("CHILD")
